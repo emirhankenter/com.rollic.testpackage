@@ -1,6 +1,6 @@
 {
   "displayName": "Test Package",
-  "name": "com.rollic.testpackage",
+  "name": "@emirhankenter/com.rollic.testpackage",
   "version": "1.0.0",
   "keywords": [
     "test"
