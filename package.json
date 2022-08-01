@@ -1,0 +1,14 @@
+{
+  "displayName": "Test Package",
+  "name": "com.rollic.testpackage",
+  "version": "1.0.0",
+  "keywords": [
+    "test"
+  ],
+  "author": {
+    "name": "Rollic Games",
+    "email": "emirhan.kenter@rollicgames.com"
+  },
+  "license": "ISC",
+  "description": "This is a test package"
+}
