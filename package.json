@@ -10,5 +10,8 @@
     "email": "emirhan.kenter@rollicgames.com"
   },
   "license": "ISC",
-  "description": "This is a test package"
+  "description": "This is a test package",
+  "publishConfig": {
+    "@emirhankenter:registry": "https://npm.pkg.github.com"
+  }
 }
